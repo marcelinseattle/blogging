@@ -1,0 +1,52 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  font-style: italic;
+}
+
+h2 {
+  font-size: 15px;
+}
+
+p {
+  font-family: cursive;
+  }
+
+
+.coffee {
+  font-size: 45px;
+}
+
+.mango {
+  background-color: purple;
+}
+
+.papaya {
+  background-color: gray;
+}
+
+.cookie {
+  background-color: red;
+}
+
+.jupiter {
+  background: orange;
+}
+
+.sugar {
+  font-size: 35px;
+}
+
+.candy {
+  font-size: 17px;
+}
+
+.aqua {
+  font-family: sans-serif;;
+}
+
+.moon {
+  font-size: 25px;
+}
