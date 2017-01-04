@@ -17,6 +17,7 @@ p {
 
 .coffee {
   font-size: 45px;
+  margin: 10px 0 20px 0;
 }
 
 .mango {
@@ -29,6 +30,7 @@ p {
 
 .cookie {
   background-color: red;
+  margin: 10px 0 20px 0;
 }
 
 .jupiter {
@@ -37,6 +39,7 @@ p {
 
 .sugar {
   font-size: 35px;
+  margin: 10px 0 10px 0;
 }
 
 .candy {
